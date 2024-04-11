@@ -11,7 +11,7 @@ print(f'{stage6[0]}\n{stage6[1]}\n{stage6[2]}\n{stage6[3]}\n{stage6[4]}\n{stage6
 list1 = ['clove', 'sage', 'thyme', 'mint', 'basil']
 random_herb = random.choice(list1)
 list2 = list(random_herb)
-#print(list2)
+# print(list2)
 display = []
 for letter in list2:
     display += '_'

@@ -17,6 +17,7 @@ alpha_list = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', '
 alpha = random.choices(alpha_list, k=input1)
 num = random.choices(num_list, k=input2)
 sym = random.choices(sym_list, k=input3)
+print(len(alpha_list))
 
 password = set(alpha)
 password.update(num)

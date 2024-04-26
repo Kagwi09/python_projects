@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d98af2a-c205-4e61-ad01-38f0bdc6d3e0" name="Changes" comment="caesar_cipher.py">
-      <change afterPath="$PROJECT_DIR$/anonymous_auction.py" afterDir="false" />
+    <list default="true" id="7d98af2a-c205-4e61-ad01-38f0bdc6d3e0" name="Changes" comment="anonymous_auction.py">
+      <change afterPath="$PROJECT_DIR$/Calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
     &quot;Python.anonymous_auction.executor&quot;: &quot;Run&quot;,
     &quot;Python.caesar_cipher.executor&quot;: &quot;Run&quot;,
     &quot;Python.hangman.executor&quot;: &quot;Run&quot;,
@@ -66,12 +67,15 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/MWANGI/PycharmProjects/python-Projects&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.anonymous_auction">
+  <component name="RunManager">
     <configuration name="anonymous_auction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-Projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -202,8 +206,27 @@
       <option name="project" value="LOCAL" />
       <updated>1713091590732</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="anonymous_auction.py">
+      <option name="closed" value="true" />
+      <created>1713688498443</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713688498444</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -211,7 +234,8 @@
     <MESSAGE value="Password generator" />
     <MESSAGE value="hangman.py" />
     <MESSAGE value="caesar_cipher.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="caesar_cipher.py" />
+    <MESSAGE value="anonymous_auction.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="anonymous_auction.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

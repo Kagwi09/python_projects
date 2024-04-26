@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d98af2a-c205-4e61-ad01-38f0bdc6d3e0" name="Changes" comment="anonymous_auction.py">
-      <change afterPath="$PROJECT_DIR$/Calculator.py" afterDir="false" />
+    <list default="true" id="7d98af2a-c205-4e61-ad01-38f0bdc6d3e0" name="Changes" comment="Calculator.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713688498444</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Calculator.py">
+      <option name="closed" value="true" />
+      <created>1714127984121</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714127984121</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +243,8 @@
     <MESSAGE value="hangman.py" />
     <MESSAGE value="caesar_cipher.py" />
     <MESSAGE value="anonymous_auction.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="anonymous_auction.py" />
+    <MESSAGE value="Calculator.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculator.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -15,7 +15,7 @@ def guess_game():
 
     wrong_input(mode)
 
-    print(i)
+    # print(i)
     end_game = False
     easy_lives = 10
     hard_lives = 5

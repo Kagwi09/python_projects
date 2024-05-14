@@ -1,3 +1,7 @@
+# write a program that would be used in a coffee making machine
+# this machine should also be capable of receiving money and dispensing change
+# the command 'off' should turn it off and 'report' should give a balance of all ingredients and change in the machine
+
 import data_base
 
 latte = data_base.menu[2]['latte']
@@ -126,7 +130,7 @@ while another_order:
                 print(f'The total cost is {cost}')
             elif sugar.lower() == 'n':
                 cost = int(cappuccino['cost'])
-                print(f'The total cost is {cost}')
+                print(f'The total cost is sh.{cost}')
             else:
                 print('Invalid input')
                 continue
@@ -163,9 +167,9 @@ while another_order:
         print('Goodbye')
         another_order = False
     elif choice.lower() == 'report':
-        print(f"Water :{coffee_capacity[0]['ingredients']['water']}\nCoffee : "
-              f"{coffee_capacity[0]['ingredients']['water']}\n Milk : {coffee_capacity[0]['ingredients']['milk']}"
-              f"\nBalance : {coffee_capacity[1]['change']}")
+        print(f"Water :{coffee_capacity[0]['ingredients']['water']} ml\nCoffee : "
+              f"{coffee_capacity[0]['ingredients']['coffee']} g\n Milk : {coffee_capacity[0]['ingredients']['milk']}"
+              f" ml\nBalance : sh.{coffee_capacity[1]['change']}")
     else:
         print('Invalid input')
         continue

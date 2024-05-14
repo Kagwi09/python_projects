@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d98af2a-c205-4e61-ad01-38f0bdc6d3e0" name="Changes" comment="guess_the_number.py">
-      <change afterPath="$PROJECT_DIR$/Higher_lower.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coffee_maker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_base.py" afterDir="false" />
+    <list default="true" id="7d98af2a-c205-4e61-ad01-38f0bdc6d3e0" name="Changes" comment="coffee_maker.py">
+      <change afterPath="$PROJECT_DIR$/quiz_game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/hangman_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coffee_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/coffee_maker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_base.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,7 @@
     &quot;Python.Higher_lower.executor&quot;: &quot;Run&quot;,
     &quot;Python.anonymous_auction.executor&quot;: &quot;Run&quot;,
     &quot;Python.caesar_cipher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coffee_maker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coffee_maker.executor&quot;: &quot;Debug&quot;,
     &quot;Python.data_base.executor&quot;: &quot;Run&quot;,
     &quot;Python.guess_the_number.executor&quot;: &quot;Run&quot;,
     &quot;Python.hangman.executor&quot;: &quot;Run&quot;,
@@ -74,6 +71,7 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
     &quot;Python.password_generator_hard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz_game.executor&quot;: &quot;Run&quot;,
     &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -266,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714482912225</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="coffee_maker.py">
+      <option name="closed" value="true" />
+      <created>1714754340020</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1714754340020</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,7 +295,8 @@
     <MESSAGE value="anonymous_auction.py" />
     <MESSAGE value="Calculator.py" />
     <MESSAGE value="guess_the_number.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="guess_the_number.py" />
+    <MESSAGE value="coffee_maker.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="coffee_maker.py" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

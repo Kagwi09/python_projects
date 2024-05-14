@@ -6,7 +6,7 @@ stages = [
     ['+-------+', '|        |', '|        O', '|        |', '|        ', '|'],
     ['+-------+', '|        |', '|        O', '|        ', '|        ', '|'],
     ['+-------+', '|        |', '|        ', '|        ', '|        ', '|'],
-    ]
+]
 
 stage0 = f'{stages[0][0]}\n{stages[0][1]}\n{stages[0][2]}\n{stages[0][3]}\n{stages[0][4]}'
 stage1 = f'{stages[1][0]}\n{stages[1][1]}\n{stages[1][2]}\n{stages[1][3]}\n{stages[1][4]}'
@@ -18,10 +18,10 @@ stage6 = f'{stages[6][0]}\n{stages[6][1]}\n{stages[6][2]}\n{stages[6][3]}\n{stag
 
 instagram_accounts = [
     {
-     'Name': 'Instagram',
-     'Followers': 672554010,
-     'Profession': 'Company',
-     'Country': 'USA'
+        'Name': 'Instagram',
+        'Followers': 672554010,
+        'Profession': 'Company',
+        'Country': 'USA'
     },
     {
         'Name': 'Cristiano Ronaldo',
@@ -166,7 +166,6 @@ menu = [
                 'cost': 250
             },
 
-
     },
     {
         'cappuccino':
@@ -179,7 +178,6 @@ menu = [
                     },
                 'cost': 300
             },
-
 
     },
     {
@@ -194,7 +192,7 @@ menu = [
                 'cost': 350
             },
 
-}]
+    }]
 
 coffee_maker_capacity = [
     {
@@ -209,3 +207,44 @@ coffee_maker_capacity = [
         'change': 5000
     }
 ]
+
+quiz_questions = \
+    [
+        {
+            'Question': 'Which is the highest mountain in Africa?', 'answer': 'A'
+        },
+        {
+            'Question': 'Which is the largest country in Africa in population?', 'answer': 'D'
+        },
+        {
+            'Question': 'Which of the following is NOT an island nation?', 'answer': 'C'
+        },
+        {
+            'Question': 'Which is the fastest river in Africa ?', 'answer': 'D'
+        },
+        {
+            'Question': 'Which of the following is not a capital city?', 'answer': 'A'
+        }
+    ]
+options = [
+    ['A : Mt. Kilimanjaro',
+     'B : Mt. Kenya',
+     'C : Mt. Elgon',
+     'D : Mt. Ruwenzori'],
+    ['A : Ethiopia',
+     'B : South Africa',
+     'C : Egypt',
+     'D : Nigeria'],
+    ['A : Comoros',
+     'B : Madagascar',
+     'C : Guinea',
+     'D : Seychelles'],
+    ['A : The Nile',
+     'B : The Congo River',
+     'C : R. Niger',
+     'D : R Gura'],
+    ['A :Brazzaville',
+     'B : Dodoma',
+     'C : Bangui',
+     'D : Luanda']]
+
